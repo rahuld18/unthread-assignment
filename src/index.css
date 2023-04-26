@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'SF Pro Text';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #06051A;
+  
+}
+img{max-width: 100%;}
+
